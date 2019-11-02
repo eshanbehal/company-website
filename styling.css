@@ -1,0 +1,24 @@
+body{
+    font-family: Arvo, serif;
+    background: url(http://freenaturestock.s3.amazonaws.com/232.jpg) no-repeat center center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.logo{
+    height: 30px;
+}
+.navbar-inverse{
+    background: rgba(0,0,0,0.5)
+}
+
+.nav li{
+    font-size: 18px;
+    padding: 10px 0;
+    color: white;
+    margin-right: 35px;
+}
+.navbar li:hover{
+    border-bottom: 1px solid #00FFB8;
+    padding-bottom: 9px;
+    cursor: pointer;
+}
