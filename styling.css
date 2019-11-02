@@ -12,7 +12,7 @@ body{
 }
 
 .nav li{
-    font-size: 18px;
+    font-size: 17px;
     padding: 10px 0;
     color: white;
     margin-right: 35px;
@@ -21,4 +21,15 @@ body{
     border-bottom: 1px solid #00FFB8;
     padding-bottom: 9px;
     cursor: pointer;
+}
+.jumbotron{
+    background-color: transparent;
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding: 10px;
+    letter-spacing: 2.5px;
+}
+.container{
+    max-width: 1000px;
 }
