@@ -27,8 +27,9 @@ body{
     background-color: transparent;
     color: white;
     text-align: center;
+/*    margin: 0px;*/
     margin-top: 50px;
-/*    padding: 15px;*/
+/*    padding: 10px;*/
     letter-spacing: 2.5px;
 }
 .container{
@@ -50,7 +51,7 @@ body{
 }
 .icons p{
     color: white;
-    font-size: 15px
+    font-size: 15px;
 }
 .contact{
     text-align: center;
